@@ -1,6 +1,6 @@
 [package]
 name = "sausage"
-version = "0.0.0"
+version = "0.1.0"
 edition = "2021"
 description = "Print cause chains of errors"
 authors = ["Niclas Meyer <niclas@countingsort.com>"]
